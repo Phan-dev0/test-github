@@ -7,6 +7,7 @@ namespace test_3
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("LMAO");
 
             Console.ReadLine();
         }
